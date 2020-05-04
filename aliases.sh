@@ -1,1 +1,1 @@
-alias prj='cd ~/Desktop/projects'
+alias prj ='cd ~/Desktop/projects'
