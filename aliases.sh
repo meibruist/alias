@@ -1,2 +1,2 @@
-alias prj='cd ~/Desktop/projects'
-alias prj2='cd ~/Desktop/projects/alias'
+alias prj='cd ~/Desktop/stripe-foundations/projects'
+alias prj2='cd ~/Desktop/stripe-foundations/projects/alias'
